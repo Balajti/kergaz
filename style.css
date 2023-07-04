@@ -608,7 +608,7 @@ body{
           width: 4em;
           height: 0.5em;
           border-radius: var(--borderRadius);
-          background: var(--color1);
+          background: #105F80;
           &::before,
           &::after {
             transition: font-size 0s;
@@ -617,7 +617,7 @@ body{
             position: absolute;
             width: 4em;
             height: 0.5em;
-            background: var(--color1);
+            background: #105F80;
             border-radius: var(--borderRadius);
           }
           &::before {
