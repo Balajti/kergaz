@@ -601,6 +601,7 @@ body{
         font-size: var(--font-size);
         cursor: pointer;
         padding: 3em 1.5em; 
+        z-index: 9999;
         &.showHitArea {
           border: 1px solid olive;
         }
